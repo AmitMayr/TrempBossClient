@@ -1,0 +1,72 @@
+{
+    "general": {
+        "title": "Tremp Boss",
+        "logout": "logout",
+        "profile": "Profile",
+        "addRide": "Add Ride",
+        "addTremp": "Add tremp",
+        "align": "left",
+        "coins": "Coins",
+        "settings":"Settings",
+        "CurrentLanguage":"Language",
+        "home":"Home",
+        "driver":"🚘",
+        "hitchhiker":"🤳",
+        "trempType":"Tremp Type",
+        "createdDate":"Created Date",
+        "rideTime":"Ride Time",
+        "creatorName":"Creator Name",
+        "from":"From",
+        "to":"To",
+        "seats":"Seats",
+        "note": "Note",
+        "requestsAmount":"Requests amount",
+        "searchPlaceholder": "Search by from or to."
+
+
+    
+    },
+    "login": {
+        "login": "Login",
+        "greeting": "Hello, {name}!",
+        "insertMail": "Insert email",
+        "insertPassword": "Insert Password",
+        "rememberMe": "Remember me",
+        "ifNotRegistered": "If you are not registered -> Register",
+        "register": "Register",
+        "confirmPass": "Confirm password",
+        "ifRegistered": "If you are registered -> log in",
+        "enterEmail": "Please enter email address",
+        "enterPassword": "Please enter password",
+        "loadingUsers": "Please wait for users to load",
+        "showPassword": "To see password",
+        "hidePassword": "To hide password"
+    },
+    "addRide": {
+        "addTremp": "Add tremp",
+        "seatsAvailable": "Seats Available",
+        "fromCountry": "Current Location",
+        "toCountry": "Destination",
+        "note": "note",
+        "addBtnText": "add",
+        "addDrive": "AddDrive",
+        "IsHitchhikerTitle":"Ask for tremp",
+        "IsDriverTitle":"Offer a ride",
+        "PickDate":"Pick date",
+        "PickTime":"Pick Time"
+
+    },
+    "settings": {
+        "title": "Settings",
+        "cancel":"Cancel"
+
+    },
+
+    "drawer": {
+        "profile": "Profile",
+        "userRides": "My Rides",
+        "userTremps": "My Tremps"
+
+    }
+
+}

@@ -1,0 +1,68 @@
+{
+  "general": {
+    "align": "right",
+    "title": "טרמפבוס",
+    "logout": "התנתק",
+    "addRide": "הוסף נסיעה",
+    "addTremp": "הוסף טרמפ",
+    "coins": "מטבעות",
+    "settings": "הגדרות",
+    "CurrentLanguage": "שפה",
+    "home": "בית",
+    "driver": "🚘",
+    "hitchhiker": "🤳",
+    "trempType": "סוג נסיעה",
+    "createdDate": "תאריך יצירה",
+    "rideTime": "זמן נסיעה",
+    "creatorName": "שם יוצר",
+    "from": "מוצא",
+    "to": "יעד",
+    "seats": "מקומות",
+    "note": "הערה",
+    "requestsAmount":"כמות בקשות",
+    "searchPlaceholder": "חפש לפי מוצא או יעד."
+
+  },
+  "login": {
+    "login": "התחברות",
+    "greeting": "ברוך הבא, {שם}!",
+    "insertMail": "הכנס מייל",
+    "insertPassword": "הכנס סיסמא",
+    "rememberMe": "זכור אותי",
+    "ifNotRegistered": "אם אתה לא רשום -> הירשם",
+    "register": "הרשמה",
+    "confirmPass": "אמת סיסמא",
+    "ifRegistered": "אם אתה רשום  -'>' התחבר",
+    "enterEmail": "אנא מלא אימייל",
+    "enterPassword": "אנא מלא סיסמא",
+    "loadingUsers": "אנא אמתן שהמשתמשים יטענו",
+    "showPassword": "להצגת הסיסמה",
+    "hidePassword": "להסתרת הסיסמה"
+  },
+  "addRide": {
+    "addTremp": "הוסף טרמפ",
+    "seatsAvailable": "מקומות פנויים",
+    "fromCountry": "מיקום נוכחי",
+    "toCountry": "יעד",
+    "note": "הערה",
+    "addBtnText": "הוסף",
+    "addDrive": "הוסף נסיעה",
+    "IsHitchhikerTitle":"בקש טרמפ",
+    "IsDriverTitle":"הצע נסיעה",
+    "rideRequests":"בקשות טרמפים",
+    "rideOffers":"הצעות נסיעה",
+    "PickDate":"בחר תאריך",
+    "PickTime":"בחר שעה"
+
+
+  },
+  "settings": {
+    "title": "הגדרות",
+    "cancel": "ביטול"
+  },
+  "drawer": {
+    "profile": "פרופיל",
+    "userRides": "הנסיעות שלי",
+    "userTremps": "הטרמפים שלי"
+  }
+}

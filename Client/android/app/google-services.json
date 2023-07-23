@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623692679436",
+    "project_id": "tremp-boss--storage",
+    "storage_bucket": "tremp-boss--storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623692679436:android:3a49e52032200062d42129",
+        "android_client_info": {
+          "package_name": "com.trempboss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623692679436-5p6plaarfugri4glquo41qmj643mi00m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu9W36fB_tkrJx5VEtVO_VR4IVUHH2Ve4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623692679436-5p6plaarfugri4glquo41qmj643mi00m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
